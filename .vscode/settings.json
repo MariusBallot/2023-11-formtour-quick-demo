@@ -1,0 +1,13 @@
+{
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "editor.detectIndentation": false,
+  "files.associations": {
+    "*.scss": "scss"
+  },
+  "scss.suggest.paths": [
+    "../src/utils/scss/_variables.scss",
+    "../src/utils/scss/_mixins.scss",
+  ]
+}
